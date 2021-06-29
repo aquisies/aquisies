@@ -33,23 +33,6 @@ Emprendedor y desarrollador apasionado, con un alto nivel de compromiso, motivac
   <br>
   <br/>
 
-<h1>👀  Otros emprendimientos</h1>
-<h3>Por un tiempo, estuve atendiendo emprendimientos y sus respectivos procesos administrativos, de investigación y desarrollo.</h3>
-<br>
-
-- 💁‍♂️ **Administrador de sistemas** Hotel Intercontinental (módulos de reservas, revenue center, central telefónica, alimentos y bebidas, ama de llaves, mantenimiento, recursos humanos)
-
-- 🤝 **Cooperativa** de Ingenieros y Comerciantes. (**Socio Fundador, Manager**). Logro: Orden de compra 10.000 Ton. de Stevia líquida.(USA)
-
-- 👨‍💻 **Investigación y desarrollo** en Representaciones Avanzadas. México. Cargo: **Coordinador de Investigación y Desarrollo**. Logro: **Patente** para la obtención de agua del aire.(_2007-2009_)
-
-- 🏄‍♂️ Pullen Surf Skis Ltd. (**Manager**). Logros: **Exportar e importar desde y hacia Colombia-Australia / Implementar E-Commerce** venta de Kayaks, Surf skis y accesorios en Australia.(_2012-2018_)
-
-- 💈 Implementación y puesta en marcha de **modelo de franquicias** de Barberías. [LA FAMA BARBERSHOP BY ÑEJO](https://www.instagram.com/lafamabarbershop_cali).(_2016_)
-
-- 😎 Organizador del evento anual [Premios Nucleo Urbano - División Comunidad de barberos y barberias](https://premiosnucleourbano.com/) (_2019_)
-
-<br>
 
 <h1 align="left">🛠 Languages and Tools:</h3>
 <p align="center"><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
